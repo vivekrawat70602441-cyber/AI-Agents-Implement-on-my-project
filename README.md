@@ -1,3 +1,16 @@
+🚀 **Building AI Agents for My TechStore E-commerce Platform**
+
+I'm starting a new development journey: building a multi-agent AI system for my existing TechStore e-commerce platform.
+
+The goal is to create AI agents that can communicate with customers in real time through WhatsApp, assist with product recommendations, handle order-related queries, provide customer support, and automate sales interactions.
+
+I'll be building this system practically, step by step, covering everything from WhatsApp Business API integration to multi-agent orchestration, memory management, human handoff, and production deployment.
+
+I've divided the entire development journey into **12 phases**, covering the complete implementation roadmap.
+
+Here's the roadmap I'm following. 👇
+
+
 Phase 1 — Project Setup & Architecture
 Starting phase
 1. Inspect existing TechStore backend and frontend.
