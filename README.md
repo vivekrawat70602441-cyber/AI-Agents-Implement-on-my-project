@@ -7,6 +7,8 @@ Starting phase
 5. Create AI agent service layer.
 6. Set up dedicated AI agent routes and controllers.
 7. Test backend integration.
+
+
 Phase 2 — WhatsApp Business API Integration
 1. Create Meta Developer App.
 2. Configure WhatsApp Business Cloud API.
@@ -17,6 +19,8 @@ Phase 2 — WhatsApp Business API Integration
 7. Handle incoming message events.
 8. Send WhatsApp messages using Graph API.
 9. Test two-way communication.
+
+
 Phase 3 — Build the First AI Agent
 Product Assistant Agent
 1. Integrate Gemini API.
@@ -28,6 +32,8 @@ Product Assistant Agent
 7. Check product availability.
 8. Recommend products based on customer requirements.
 9. Test real conversations through WhatsApp.
+
+
 Phase 4 — AI Agent Tool Calling
 1. Implement function/tool calling.
 2. Create getProducts() tool.
@@ -38,6 +44,8 @@ Phase 4 — AI Agent Tool Calling
 7. Implement tool execution and response handling.
 8. Add tool authorization and validation.
 9. Test multiple tool calls.
+
+
 Phase 5 — Agent Memory & Conversation Management
 1. Create Conversation model.
 2. Create Message model.
@@ -48,6 +56,8 @@ Phase 5 — Agent Memory & Conversation Management
 7. Implement conversation summarization.
 8. Handle multiple customers independently.
 9. Test persistent conversations.
+
+
 Phase 6 — Build Specialized AI Agents
 Agent	Responsibilities
 Product Agent	Product information and availability
@@ -62,6 +72,8 @@ Implementation:
 4. Build Support Agent.
 5. Give each agent its own tools and instructions.
 6. Test each agent independently.
+
+
 Phase 7 — Multi-Agent Orchestration
 1. Build Orchestrator Agent.
 2. Implement intent detection.
@@ -72,6 +84,8 @@ Phase 7 — Multi-Agent Orchestration
 7. Handle multiple agent responses.
 8. Implement fallback routing.
 9. Test complete multi-agent workflows.
+
+
 Phase 8 — Human-in-the-Loop System
 1. Detect queries requiring human assistance.
 2. Implement human handoff.
@@ -80,6 +94,8 @@ Phase 8 — Human-in-the-Loop System
 5. Allow admin to resume AI assistance.
 6. Implement conversation ownership.
 7. Test AI-to-human transitions.
+
+
 Phase 9 — Admin Dashboard Integration
 1. Create AI conversations dashboard.
 2. Display live WhatsApp conversations.
@@ -90,6 +106,8 @@ Phase 9 — Admin Dashboard Integration
 7. Implement admin reply functionality.
 8. Implement AI enable/disable controls.
 9. Add conversation status management.
+
+
 Phase 10 — Security & Reliability
 1. Validate WhatsApp webhook signatures.
 2. Secure API credentials.
@@ -101,6 +119,8 @@ Phase 10 — Security & Reliability
 8. Restrict sensitive database operations.
 9. Add audit logs.
 10. Test concurrent conversations.
+
+
 Phase 11 — Testing & Optimization
 1. Test individual agents.
 2. Test tool calling.
@@ -111,6 +131,8 @@ Phase 11 — Testing & Optimization
 7. Optimize Gemini API usage.
 8. Measure response latency.
 9. Fix production issues.
+
+
 Phase 12 — Production Deployment
 1. Configure production environment variables.
 2. Deploy backend on Render.
